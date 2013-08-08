@@ -1,4 +1,5 @@
 #import <NSString.h>
+#import <NSException.h>
 
 @interface NSString (DarlingUtilities)
 
